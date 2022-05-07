@@ -55,7 +55,7 @@ layout: default
 ##### size: 0.64 M, DSCF0511.JPG
 ![DSCF0511.JPG](https://zooatmospheregroup.github.io/MEDIA-2021//images/mix/20220502HuangWeiJian/DSCF0511.JPG)
 
-##### size: 0.56 M, 
+##### size: 0.56 M, DSCF0525.JPG
 ![DSCF0525.JPG](https://zooatmospheregroup.github.io/MEDIA-2021//images/mix/20220502HuangWeiJian/DSCF0525.JPG)
 
 ##### size: 0.83 M, DSCF0532.JPG
@@ -82,7 +82,7 @@ layout: default
 ##### size: 1.18 M, DSCF0626.JPG
 ![DSCF0626.JPG](https://zooatmospheregroup.github.io/MEDIA-2021//images/mix/20220502HuangWeiJian/DSCF0626.JPG)
 
-##### size: 0.71 M, 
+##### size: 0.71 M, DSCF0629.JPG
 ![DSCF0629.JPG](https://zooatmospheregroup.github.io/MEDIA-2021//images/mix/20220502HuangWeiJian/DSCF0629.JPG)
 
 ##### size: 0.99 M, DSCF0631.JPG
