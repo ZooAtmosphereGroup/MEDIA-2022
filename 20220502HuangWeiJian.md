@@ -4,7 +4,7 @@ layout: default
 ### 摄影: HuangWeiJian
 ### 描述: 
 ### 提交时间: 20220502
-        ##### size: 1.07 M, DSCF0380.JPG
+##### size: 1.07 M, DSCF0380.JPG
 ![DSCF0380.JPG](https://zooatmospheregroup.github.io/MEDIA-2021//images/mix/20220502HuangWeiJian/DSCF0380.JPG)
 
 ##### size: 1.14 M, DSCF0381.JPG

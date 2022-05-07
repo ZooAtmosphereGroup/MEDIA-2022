@@ -4,7 +4,7 @@ layout: default
 ### 摄影: ZouBinbin
 ### 描述: 
 ### 提交时间: 20220504
-        ##### size: 0.59 M, DSCF2911.JPG
+##### size: 0.59 M, DSCF2911.JPG
 ![DSCF2911.JPG](https://zooatmospheregroup.github.io/MEDIA-2021//images/mix/20220504ZouBinbin/DSCF2911.JPG)
 
 ##### size: 0.71 M, DSCF2919.JPG

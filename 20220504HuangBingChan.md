@@ -4,7 +4,7 @@ layout: default
 ### 摄影: HuangBingChan
 ### 描述: 
 ### 提交时间: 20220504
-        ##### size: 0.72 M, 一朵荷花.jpg
+##### size: 0.72 M, 一朵荷花.jpg
 ![一朵荷花.jpg](https://zooatmospheregroup.github.io/MEDIA-2021//images/mix/20220504HuangBingChan/一朵荷花.jpg)
 
 ##### size: 1.35 M, 东非冠鹤.jpg

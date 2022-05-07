@@ -4,7 +4,7 @@ layout: default
 ### 摄影: ZouBinbin
 ### 描述: 
 ### 提交时间: 20220129
-        ##### size: 1.18 M, DSCF2246.JPG
+##### size: 1.18 M, DSCF2246.JPG
 ![DSCF2246.JPG](https://zooatmospheregroup.github.io/MEDIA-2021//images/mix/20220129ZouBinbin/DSCF2246.JPG)
 
 ##### size: 0.52 M, DSCF2247.JPG
