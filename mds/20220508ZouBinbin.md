@@ -4,8 +4,8 @@ layout: default
 ### 摄影: ZouBinbin
 ### 描述: 
 ### 提交时间: 20220508
-<video id="video" controls="" preload="none" poster="">
-      <source id="mp4" src="https://zooatmospheregroup.github.io/MEDIA-2022/images/vdo/20220508ZouBinbin.avi" type="video/avi">
+<video id="video" controls>
+      <source id="mp4" src="https://zooatmospheregroup.github.io/MEDIA-2022/images/vdo/20220508ZouBinbin.avi" type="video/mp4">
 </video>
 
 ##### size: 0.13 M, DSCF3521.JPG
