@@ -356,5 +356,33 @@
         "remark": "",
         "thumbnail": "草金鱼.jpg",
         "title": ""
+    },
+    "20220514FanLuYao": {
+        "author": "FanLuYao",
+        "date": "20220514",
+        "path_author": "20220514FanLuYao",
+        "photos_description": {
+            "IMG_4268.JPG": "IMG_4268.JPG",
+            "IMG_4277.JPG": "IMG_4277.JPG",
+            "IMG_4279.JPG": "IMG_4279.JPG",
+            "IMG_4281.JPG": "IMG_4281.JPG",
+            "IMG_4282.JPG": "IMG_4282.JPG",
+            "IMG_4285.JPG": "IMG_4285.JPG",
+            "IMG_4286.JPG": "IMG_4286.JPG",
+            "IMG_4288.JPG": "IMG_4288.JPG",
+            "IMG_4289.JPG": "IMG_4289.JPG",
+            "IMG_4290.JPG": "IMG_4290.JPG",
+            "IMG_4292.JPG": "IMG_4292.JPG",
+            "IMG_4294.JPG": "IMG_4294.JPG",
+            "IMG_4296.JPG": "IMG_4296.JPG",
+            "IMG_4297.JPG": "IMG_4297.JPG",
+            "IMG_4303.JPG": "IMG_4303.JPG",
+            "IMG_4306.JPG": "IMG_4306.JPG",
+            "IMG_4307.JPG": "IMG_4307.JPG",
+            "IMG_4310.JPG": "IMG_4310.JPG"
+        },
+        "remark": "Canon M2",
+        "thumbnail": "IMG_4285.JPG",
+        "title": ""
     }
 }
