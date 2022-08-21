@@ -7,6 +7,9 @@ layout: default
 ##### NO.22.149-DSCF4819.JPG X-T30 TAMRON SP 24-70mm F/2.8 Di VC USD G2 1/90 7/2 320 
 ![NO.22.149-DSCF4819.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//mix/20220626ZouBinbin/NO.22.149-DSCF4819.JPG)
 
+##### NO.22.14A-DSCF4824.JPG X-T30 TAMRON SP 24-70mm F/2.8 Di VC USD G2 1/250 14/5 500 
+![NO.22.14A-DSCF4824.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//mix/20220626ZouBinbin/NO.22.14A-DSCF4824.JPG)
+
 ##### NO.22.14B-DSCF4834.JPG X-T30 TAMRON SP 24-70mm F/2.8 Di VC USD G2 1/200 14/5 320 
 ![NO.22.14B-DSCF4834.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//mix/20220626ZouBinbin/NO.22.14B-DSCF4834.JPG)
 

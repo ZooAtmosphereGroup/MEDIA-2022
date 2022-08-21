@@ -4,143 +4,161 @@ layout: default
 ### 摄影: HuangWeiJian
 ### 描述: 
 ### 提交时间: 20220502
-##### size: 1.07 M, DSCF0380.JPG
-![DSCF0380.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//images/mix/20220502HuangWeiJian/DSCF0380.JPG)
+##### NO.03A9-NA.DSCF0380.JPG X-T1 XF18-135mmF3.5-5.6R LM OIS WR 1/1000 28/5 800 
+![NO.03A9-NA.DSCF0380.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//mix/20220502HuangWeiJian/NO.03A9-NA.DSCF0380.JPG)
 
-##### size: 1.14 M, DSCF0381.JPG
-![DSCF0381.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//images/mix/20220502HuangWeiJian/DSCF0381.JPG)
+##### NO.03AA-NA.DSCF0381.JPG X-T1 XF18-135mmF3.5-5.6R LM OIS WR 1/1000 28/5 800 
+![NO.03AA-NA.DSCF0381.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//mix/20220502HuangWeiJian/NO.03AA-NA.DSCF0381.JPG)
 
-##### size: 1.18 M, DSCF0385.JPG
-![DSCF0385.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//images/mix/20220502HuangWeiJian/DSCF0385.JPG)
+##### NO.03AB-NA.DSCF0385.JPG X-T1 XF18-135mmF3.5-5.6R LM OIS WR 1/250 28/5 200 
+![NO.03AB-NA.DSCF0385.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//mix/20220502HuangWeiJian/NO.03AB-NA.DSCF0385.JPG)
 
-##### size: 1.22 M, DSCF0399.JPG
-![DSCF0399.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//images/mix/20220502HuangWeiJian/DSCF0399.JPG)
+##### NO.03AC-NA.DSCF0399.JPG X-T1 XF18-135mmF3.5-5.6R LM OIS WR 1/250 28/5 200 
+![NO.03AC-NA.DSCF0399.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//mix/20220502HuangWeiJian/NO.03AC-NA.DSCF0399.JPG)
 
-##### size: 1.05 M, DSCF0401.JPG
-![DSCF0401.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//images/mix/20220502HuangWeiJian/DSCF0401.JPG)
+##### NO.03AD-NA.DSCF0401.JPG X-T1 XF18-135mmF3.5-5.6R LM OIS WR 1/125 28/5 200 
+![NO.03AD-NA.DSCF0401.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//mix/20220502HuangWeiJian/NO.03AD-NA.DSCF0401.JPG)
 
-##### size: 1.12 M, DSCF0410.JPG
-![DSCF0410.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//images/mix/20220502HuangWeiJian/DSCF0410.JPG)
+##### NO.03AE-NA.DSCF0410.JPG X-T1 XF18-135mmF3.5-5.6R LM OIS WR 1/180 28/5 200 
+![NO.03AE-NA.DSCF0410.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//mix/20220502HuangWeiJian/NO.03AE-NA.DSCF0410.JPG)
 
-##### size: 1.1 M, DSCF0432.JPG
-![DSCF0432.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//images/mix/20220502HuangWeiJian/DSCF0432.JPG)
+##### NO.03AF-NA.DSCF0432.JPG X-T1 XF18-135mmF3.5-5.6R LM OIS WR 1/125 28/5 800 
+![NO.03AF-NA.DSCF0432.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//mix/20220502HuangWeiJian/NO.03AF-NA.DSCF0432.JPG)
 
-##### size: 0.9 M, DSCF0448.JPG
-![DSCF0448.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//images/mix/20220502HuangWeiJian/DSCF0448.JPG)
+##### NO.03B0-NA.DSCF0448.JPG X-T1 XF18-135mmF3.5-5.6R LM OIS WR 1/500 28/5 800 
+![NO.03B0-NA.DSCF0448.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//mix/20220502HuangWeiJian/NO.03B0-NA.DSCF0448.JPG)
 
-##### size: 1.28 M, DSCF0470.JPG
-![DSCF0470.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//images/mix/20220502HuangWeiJian/DSCF0470.JPG)
+##### NO.03B1-NA.DSCF0470.JPG X-T1 XF18-135mmF3.5-5.6R LM OIS WR 1/2000 28/5 800 
+![NO.03B1-NA.DSCF0470.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//mix/20220502HuangWeiJian/NO.03B1-NA.DSCF0470.JPG)
 
-##### size: 0.4 M, DSCF0482.JPG
-![DSCF0482.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//images/mix/20220502HuangWeiJian/DSCF0482.JPG)
+##### NO.03B2-NA.DSCF0482.JPG X-T1 XF18-135mmF3.5-5.6R LM OIS WR 1/500 28/5 800 
+![NO.03B2-NA.DSCF0482.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//mix/20220502HuangWeiJian/NO.03B2-NA.DSCF0482.JPG)
 
-##### size: 0.61 M, DSCF0485.JPG
-![DSCF0485.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//images/mix/20220502HuangWeiJian/DSCF0485.JPG)
+##### NO.03B3-NA.DSCF0485.JPG X-T1 XF18-135mmF3.5-5.6R LM OIS WR 1/180 28/5 800 
+![NO.03B3-NA.DSCF0485.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//mix/20220502HuangWeiJian/NO.03B3-NA.DSCF0485.JPG)
 
-##### size: 0.74 M, DSCF0486.JPG
-![DSCF0486.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//images/mix/20220502HuangWeiJian/DSCF0486.JPG)
+##### NO.03B4-NA.DSCF0486.JPG X-T1 XF18-135mmF3.5-5.6R LM OIS WR 1/500 28/5 800 
+![NO.03B4-NA.DSCF0486.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//mix/20220502HuangWeiJian/NO.03B4-NA.DSCF0486.JPG)
 
-##### size: 0.65 M, DSCF0487.JPG
-![DSCF0487.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//images/mix/20220502HuangWeiJian/DSCF0487.JPG)
+##### NO.03B5-NA.DSCF0487.JPG X-T1 XF18-135mmF3.5-5.6R LM OIS WR 1/500 28/5 800 
+![NO.03B5-NA.DSCF0487.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//mix/20220502HuangWeiJian/NO.03B5-NA.DSCF0487.JPG)
 
-##### size: 0.73 M, DSCF0488.JPG
-![DSCF0488.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//images/mix/20220502HuangWeiJian/DSCF0488.JPG)
+##### NO.03B6-NA.DSCF0488.JPG X-T1 XF18-135mmF3.5-5.6R LM OIS WR 1/500 28/5 800 
+![NO.03B6-NA.DSCF0488.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//mix/20220502HuangWeiJian/NO.03B6-NA.DSCF0488.JPG)
 
-##### size: 0.71 M, DSCF0502.JPG
-![DSCF0502.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//images/mix/20220502HuangWeiJian/DSCF0502.JPG)
+##### NO.03B7-NA.DSCF0502.JPG X-T1 XF18-135mmF3.5-5.6R LM OIS WR 1/1000 28/5 800 
+![NO.03B7-NA.DSCF0502.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//mix/20220502HuangWeiJian/NO.03B7-NA.DSCF0502.JPG)
 
-##### size: 1.42 M, DSCF0507.JPG
-![DSCF0507.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//images/mix/20220502HuangWeiJian/DSCF0507.JPG)
+##### NO.03B8-NA.DSCF0507.JPG X-T1 XF18-135mmF3.5-5.6R LM OIS WR 1/180 28/5 800 
+![NO.03B8-NA.DSCF0507.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//mix/20220502HuangWeiJian/NO.03B8-NA.DSCF0507.JPG)
 
-##### size: 0.64 M, DSCF0511.JPG
-![DSCF0511.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//images/mix/20220502HuangWeiJian/DSCF0511.JPG)
+##### NO.03B9-NA.DSCF0511.JPG X-T1 XF18-135mmF3.5-5.6R LM OIS WR 1/1000 28/5 800 
+![NO.03B9-NA.DSCF0511.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//mix/20220502HuangWeiJian/NO.03B9-NA.DSCF0511.JPG)
 
-##### size: 0.56 M, DSCF0525.JPG
-![DSCF0525.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//images/mix/20220502HuangWeiJian/DSCF0525.JPG)
+##### NO.03BA-NA.DSCF0520.JPG X-T1 XF18-135mmF3.5-5.6R LM OIS WR 1/1000 28/5 800 
+![NO.03BA-NA.DSCF0520.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//mix/20220502HuangWeiJian/NO.03BA-NA.DSCF0520.JPG)
 
-##### size: 0.83 M, DSCF0532.JPG
-![DSCF0532.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//images/mix/20220502HuangWeiJian/DSCF0532.JPG)
+##### NO.03BB-NA.DSCF0522.JPG X-T1 XF18-135mmF3.5-5.6R LM OIS WR 1/1000 28/5 800 
+![NO.03BB-NA.DSCF0522.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//mix/20220502HuangWeiJian/NO.03BB-NA.DSCF0522.JPG)
 
-##### size: 0.89 M, DSCF0534.JPG
-![DSCF0534.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//images/mix/20220502HuangWeiJian/DSCF0534.JPG)
+##### NO.03BC-NA.DSCF0525.JPG X-T1 XF18-135mmF3.5-5.6R LM OIS WR 1/1000 28/5 800 
+![NO.03BC-NA.DSCF0525.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//mix/20220502HuangWeiJian/NO.03BC-NA.DSCF0525.JPG)
 
-##### size: 0.46 M, DSCF0549.JPG
-![DSCF0549.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//images/mix/20220502HuangWeiJian/DSCF0549.JPG)
+##### NO.03BD-NA.DSCF0532.JPG X-T1 XF18-135mmF3.5-5.6R LM OIS WR 1/125 28/5 800 
+![NO.03BD-NA.DSCF0532.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//mix/20220502HuangWeiJian/NO.03BD-NA.DSCF0532.JPG)
 
-##### size: 1.01 M, DSCF0557.JPG
-![DSCF0557.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//images/mix/20220502HuangWeiJian/DSCF0557.JPG)
+##### NO.03BE-NA.DSCF0533.JPG X-T1 XF18-135mmF3.5-5.6R LM OIS WR 1/500 28/5 800 
+![NO.03BE-NA.DSCF0533.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//mix/20220502HuangWeiJian/NO.03BE-NA.DSCF0533.JPG)
 
-##### size: 0.48 M, DSCF0572.JPG
-![DSCF0572.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//images/mix/20220502HuangWeiJian/DSCF0572.JPG)
+##### NO.03BF-NA.DSCF0534.JPG X-T1 XF18-135mmF3.5-5.6R LM OIS WR 1/500 28/5 800 
+![NO.03BF-NA.DSCF0534.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//mix/20220502HuangWeiJian/NO.03BF-NA.DSCF0534.JPG)
 
-##### size: 0.57 M, DSCF0605.JPG
-![DSCF0605.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//images/mix/20220502HuangWeiJian/DSCF0605.JPG)
+##### NO.03C0-NA.DSCF0535.JPG X-T1 XF18-135mmF3.5-5.6R LM OIS WR 1/180 28/5 800 
+![NO.03C0-NA.DSCF0535.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//mix/20220502HuangWeiJian/NO.03C0-NA.DSCF0535.JPG)
 
-##### size: 0.57 M, DSCF0624.JPG
-![DSCF0624.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//images/mix/20220502HuangWeiJian/DSCF0624.JPG)
+##### NO.03C1-NA.DSCF0549.JPG X-T1 XF18-135mmF3.5-5.6R LM OIS WR 1/500 28/5 1600 
+![NO.03C1-NA.DSCF0549.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//mix/20220502HuangWeiJian/NO.03C1-NA.DSCF0549.JPG)
 
-##### size: 1.18 M, DSCF0626.JPG
-![DSCF0626.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//images/mix/20220502HuangWeiJian/DSCF0626.JPG)
+##### NO.03C2-NA.DSCF0557.JPG X-T1 XF18-135mmF3.5-5.6R LM OIS WR 1/2000 28/5 1600 
+![NO.03C2-NA.DSCF0557.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//mix/20220502HuangWeiJian/NO.03C2-NA.DSCF0557.JPG)
 
-##### size: 0.71 M, DSCF0629.JPG
-![DSCF0629.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//images/mix/20220502HuangWeiJian/DSCF0629.JPG)
+##### NO.03C3-NA.DSCF0572.JPG X-T1 XF18-135mmF3.5-5.6R LM OIS WR 1/1000 28/5 1600 
+![NO.03C3-NA.DSCF0572.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//mix/20220502HuangWeiJian/NO.03C3-NA.DSCF0572.JPG)
 
-##### size: 0.99 M, DSCF0631.JPG
-![DSCF0631.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//images/mix/20220502HuangWeiJian/DSCF0631.JPG)
+##### NO.03C4-NA.DSCF0605.JPG X-T1 XF18-135mmF3.5-5.6R LM OIS WR 1/1000 28/5 1600 
+![NO.03C4-NA.DSCF0605.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//mix/20220502HuangWeiJian/NO.03C4-NA.DSCF0605.JPG)
 
-##### size: 1.56 M, DSCF0638.JPG
-![DSCF0638.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//images/mix/20220502HuangWeiJian/DSCF0638.JPG)
+##### NO.03C5-NA.DSCF0624.JPG X-T1 XF18-135mmF3.5-5.6R LM OIS WR 1/250 71/10 800 
+![NO.03C5-NA.DSCF0624.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//mix/20220502HuangWeiJian/NO.03C5-NA.DSCF0624.JPG)
 
-##### size: 1.32 M, DSCF0642.JPG
-![DSCF0642.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//images/mix/20220502HuangWeiJian/DSCF0642.JPG)
+##### NO.03C6-NA.DSCF0626.JPG X-T1 XF18-135mmF3.5-5.6R LM OIS WR 1/180 8 800 
+![NO.03C6-NA.DSCF0626.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//mix/20220502HuangWeiJian/NO.03C6-NA.DSCF0626.JPG)
 
-##### size: 0.57 M, DSCF0652.JPG
-![DSCF0652.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//images/mix/20220502HuangWeiJian/DSCF0652.JPG)
+##### NO.03C7-NA.DSCF0629.JPG X-T1 XF18-135mmF3.5-5.6R LM OIS WR 1/180 8 800 
+![NO.03C7-NA.DSCF0629.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//mix/20220502HuangWeiJian/NO.03C7-NA.DSCF0629.JPG)
 
-##### size: 0.68 M, DSCF0653.JPG
-![DSCF0653.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//images/mix/20220502HuangWeiJian/DSCF0653.JPG)
+##### NO.03C8-NA.DSCF0630.JPG X-T1 XF18-135mmF3.5-5.6R LM OIS WR 1/180 8 800 
+![NO.03C8-NA.DSCF0630.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//mix/20220502HuangWeiJian/NO.03C8-NA.DSCF0630.JPG)
 
-##### size: 0.77 M, DSCF0655.JPG
-![DSCF0655.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//images/mix/20220502HuangWeiJian/DSCF0655.JPG)
+##### NO.03C9-NA.DSCF0631.JPG X-T1 XF18-135mmF3.5-5.6R LM OIS WR 1/180 8 800 
+![NO.03C9-NA.DSCF0631.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//mix/20220502HuangWeiJian/NO.03C9-NA.DSCF0631.JPG)
 
-##### size: 0.81 M, DSCF0658.JPG
-![DSCF0658.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//images/mix/20220502HuangWeiJian/DSCF0658.JPG)
+##### NO.03CA-NA.DSCF0638.JPG X-T1 XF18-135mmF3.5-5.6R LM OIS WR 1/250 28/5 800 
+![NO.03CA-NA.DSCF0638.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//mix/20220502HuangWeiJian/NO.03CA-NA.DSCF0638.JPG)
 
-##### size: 1.02 M, DSCF0659.JPG
-![DSCF0659.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//images/mix/20220502HuangWeiJian/DSCF0659.JPG)
+##### NO.03CB-NA.DSCF0642.JPG X-T1 XF18-135mmF3.5-5.6R LM OIS WR 1/180 32/5 800 
+![NO.03CB-NA.DSCF0642.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//mix/20220502HuangWeiJian/NO.03CB-NA.DSCF0642.JPG)
 
-##### size: 0.84 M, DSCF0661.JPG
-![DSCF0661.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//images/mix/20220502HuangWeiJian/DSCF0661.JPG)
+##### NO.03CC-NA.DSCF0648.JPG X-T1 XF18-135mmF3.5-5.6R LM OIS WR 1/180 32/5 800 
+![NO.03CC-NA.DSCF0648.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//mix/20220502HuangWeiJian/NO.03CC-NA.DSCF0648.JPG)
 
-##### size: 1.1 M, DSCF0666.JPG
-![DSCF0666.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//images/mix/20220502HuangWeiJian/DSCF0666.JPG)
+##### NO.03CD-NA.DSCF0652.JPG X-T1 XF18-135mmF3.5-5.6R LM OIS WR 1/180 32/5 800 
+![NO.03CD-NA.DSCF0652.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//mix/20220502HuangWeiJian/NO.03CD-NA.DSCF0652.JPG)
 
-##### size: 0.81 M, DSCF0667.JPG
-![DSCF0667.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//images/mix/20220502HuangWeiJian/DSCF0667.JPG)
+##### NO.03CE-NA.DSCF0653.JPG X-T1 XF18-135mmF3.5-5.6R LM OIS WR 1/125 32/5 800 
+![NO.03CE-NA.DSCF0653.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//mix/20220502HuangWeiJian/NO.03CE-NA.DSCF0653.JPG)
 
-##### size: 0.75 M, DSCF0671.JPG
-![DSCF0671.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//images/mix/20220502HuangWeiJian/DSCF0671.JPG)
+##### NO.03CF-NA.DSCF0655.JPG X-T1 XF18-135mmF3.5-5.6R LM OIS WR 1/500 32/5 800 
+![NO.03CF-NA.DSCF0655.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//mix/20220502HuangWeiJian/NO.03CF-NA.DSCF0655.JPG)
 
-##### size: 0.73 M, DSCF0675.JPG
-![DSCF0675.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//images/mix/20220502HuangWeiJian/DSCF0675.JPG)
+##### NO.03D0-NA.DSCF0658.JPG X-T1 XF18-135mmF3.5-5.6R LM OIS WR 1/500 32/5 800 
+![NO.03D0-NA.DSCF0658.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//mix/20220502HuangWeiJian/NO.03D0-NA.DSCF0658.JPG)
 
-##### size: 0.81 M, DSCF0678.JPG
-![DSCF0678.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//images/mix/20220502HuangWeiJian/DSCF0678.JPG)
+##### NO.03D1-NA.DSCF0659.JPG X-T1 XF18-135mmF3.5-5.6R LM OIS WR 1/500 32/5 800 
+![NO.03D1-NA.DSCF0659.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//mix/20220502HuangWeiJian/NO.03D1-NA.DSCF0659.JPG)
 
-##### size: 1.22 M, DSCF0684.JPG
-![DSCF0684.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//images/mix/20220502HuangWeiJian/DSCF0684.JPG)
+##### NO.03D2-NA.DSCF0661.JPG X-T1 XF18-135mmF3.5-5.6R LM OIS WR 1/500 32/5 800 
+![NO.03D2-NA.DSCF0661.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//mix/20220502HuangWeiJian/NO.03D2-NA.DSCF0661.JPG)
 
-##### size: 0.98 M, DSCF0690.JPG
-![DSCF0690.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//images/mix/20220502HuangWeiJian/DSCF0690.JPG)
+##### NO.03D3-NA.DSCF0666.JPG X-T1 XF18-135mmF3.5-5.6R LM OIS WR 1/500 32/5 800 
+![NO.03D3-NA.DSCF0666.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//mix/20220502HuangWeiJian/NO.03D3-NA.DSCF0666.JPG)
 
-##### size: 0.56 M, DSCF0698.JPG
-![DSCF0698.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//images/mix/20220502HuangWeiJian/DSCF0698.JPG)
+##### NO.03D4-NA.DSCF0667.JPG X-T1 XF18-135mmF3.5-5.6R LM OIS WR 1/500 32/5 800 
+![NO.03D4-NA.DSCF0667.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//mix/20220502HuangWeiJian/NO.03D4-NA.DSCF0667.JPG)
 
-##### size: 0.99 M, DSCF0704.JPG
-![DSCF0704.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//images/mix/20220502HuangWeiJian/DSCF0704.JPG)
+##### NO.03D5-NA.DSCF0671.JPG X-T1 XF18-135mmF3.5-5.6R LM OIS WR 1/500 32/5 800 
+![NO.03D5-NA.DSCF0671.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//mix/20220502HuangWeiJian/NO.03D5-NA.DSCF0671.JPG)
 
-##### size: 0.51 M, DSCF0709.JPG
-![DSCF0709.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//images/mix/20220502HuangWeiJian/DSCF0709.JPG)
+##### NO.03D6-NA.DSCF0675.JPG X-T1 XF18-135mmF3.5-5.6R LM OIS WR 1/500 32/5 800 
+![NO.03D6-NA.DSCF0675.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//mix/20220502HuangWeiJian/NO.03D6-NA.DSCF0675.JPG)
+
+##### NO.03D7-NA.DSCF0678.JPG X-T1 XF18-135mmF3.5-5.6R LM OIS WR 1/500 32/5 800 
+![NO.03D7-NA.DSCF0678.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//mix/20220502HuangWeiJian/NO.03D7-NA.DSCF0678.JPG)
+
+##### NO.03D8-NA.DSCF0684.JPG X-T1 XF18-135mmF3.5-5.6R LM OIS WR 1/125 32/5 800 
+![NO.03D8-NA.DSCF0684.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//mix/20220502HuangWeiJian/NO.03D8-NA.DSCF0684.JPG)
+
+##### NO.03D9-NA.DSCF0690.JPG X-T1 XF18-135mmF3.5-5.6R LM OIS WR 1/180 28/5 800 
+![NO.03D9-NA.DSCF0690.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//mix/20220502HuangWeiJian/NO.03D9-NA.DSCF0690.JPG)
+
+##### NO.03DA-NA.DSCF0698.JPG X-T1 XF18-135mmF3.5-5.6R LM OIS WR 1/125 28/5 800 
+![NO.03DA-NA.DSCF0698.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//mix/20220502HuangWeiJian/NO.03DA-NA.DSCF0698.JPG)
+
+##### NO.03DB-NA.DSCF0704.JPG X-T1 XF18-135mmF3.5-5.6R LM OIS WR 1/125 28/5 800 
+![NO.03DB-NA.DSCF0704.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//mix/20220502HuangWeiJian/NO.03DB-NA.DSCF0704.JPG)
+
+##### NO.03DC-NA.DSCF0709.JPG X-T1 XF18-135mmF3.5-5.6R LM OIS WR 1/1000 28/5 800 
+![NO.03DC-NA.DSCF0709.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//mix/20220502HuangWeiJian/NO.03DC-NA.DSCF0709.JPG)
 
 
 [返回](/Zoo-HZ-Media-Volunteers)

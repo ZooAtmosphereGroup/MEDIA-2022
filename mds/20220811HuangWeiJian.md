@@ -2,7 +2,7 @@
 layout: default
 ---
 ### 摄影: HuangWeiJian
-### 描述: 动物园奇妙夜
+### 描述: 
 ### 提交时间: 20220811
 ##### NO.22.09C-DSC04218-1.jpg      
 ![NO.22.09C-DSC04218-1.jpg](https://zooatmospheregroup.github.io/MEDIA-2022//mix/20220811HuangWeiJian/NO.22.09C-DSC04218-1.jpg)
