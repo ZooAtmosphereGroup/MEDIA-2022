@@ -5,127 +5,127 @@ layout: default
 ### 描述: 
 ### 提交时间: 20220626
 ##### NO.22.149-DSCF4819.JPG X-T30 TAMRON SP 24-70mm F/2.8 Di VC USD G2 1/90 7/2 320 
-![NO.22.149-DSCF4819.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//mix/20220626ZouBinbin/NO.22.149-DSCF4819.JPG)
+![NO.22.149-DSCF4819.JPG](https://zooatmospheregroup.github.io/MEDIA-2022/mix/20220626ZouBinbin/NO.22.149-DSCF4819.JPG)
 
 ##### NO.22.14A-DSCF4824.JPG X-T30 TAMRON SP 24-70mm F/2.8 Di VC USD G2 1/250 14/5 500 
-![NO.22.14A-DSCF4824.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//mix/20220626ZouBinbin/NO.22.14A-DSCF4824.JPG)
+![NO.22.14A-DSCF4824.JPG](https://zooatmospheregroup.github.io/MEDIA-2022/mix/20220626ZouBinbin/NO.22.14A-DSCF4824.JPG)
 
 ##### NO.22.14B-DSCF4834.JPG X-T30 TAMRON SP 24-70mm F/2.8 Di VC USD G2 1/200 14/5 320 
-![NO.22.14B-DSCF4834.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//mix/20220626ZouBinbin/NO.22.14B-DSCF4834.JPG)
+![NO.22.14B-DSCF4834.JPG](https://zooatmospheregroup.github.io/MEDIA-2022/mix/20220626ZouBinbin/NO.22.14B-DSCF4834.JPG)
 
 ##### NO.22.14C-DSCF4840.JPG X-T30 TAMRON SP 24-70mm F/2.8 Di VC USD G2 1/200 14/5 250 
-![NO.22.14C-DSCF4840.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//mix/20220626ZouBinbin/NO.22.14C-DSCF4840.JPG)
+![NO.22.14C-DSCF4840.JPG](https://zooatmospheregroup.github.io/MEDIA-2022/mix/20220626ZouBinbin/NO.22.14C-DSCF4840.JPG)
 
 ##### NO.22.14D-DSCF4859.JPG X-T30 TAMRON SP 70-200mm F/2.8 Di VC USD G2 1/320 14/5 500 
-![NO.22.14D-DSCF4859.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//mix/20220626ZouBinbin/NO.22.14D-DSCF4859.JPG)
+![NO.22.14D-DSCF4859.JPG](https://zooatmospheregroup.github.io/MEDIA-2022/mix/20220626ZouBinbin/NO.22.14D-DSCF4859.JPG)
 
 ##### NO.22.14E-DSCF4870.JPG X-T30 TAMRON SP 70-200mm F/2.8 Di VC USD G2 1/320 14/5 320 
-![NO.22.14E-DSCF4870.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//mix/20220626ZouBinbin/NO.22.14E-DSCF4870.JPG)
+![NO.22.14E-DSCF4870.JPG](https://zooatmospheregroup.github.io/MEDIA-2022/mix/20220626ZouBinbin/NO.22.14E-DSCF4870.JPG)
 
 ##### NO.22.14F-DSCF4884.JPG X-T30 TAMRON SP 70-200mm F/2.8 Di VC USD G2 1/320 14/5 320 
-![NO.22.14F-DSCF4884.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//mix/20220626ZouBinbin/NO.22.14F-DSCF4884.JPG)
+![NO.22.14F-DSCF4884.JPG](https://zooatmospheregroup.github.io/MEDIA-2022/mix/20220626ZouBinbin/NO.22.14F-DSCF4884.JPG)
 
 ##### NO.22.150-DSCF4882.JPG X-T30 TAMRON SP 70-200mm F/2.8 Di VC USD G2 1/320 14/5 320 
-![NO.22.150-DSCF4882.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//mix/20220626ZouBinbin/NO.22.150-DSCF4882.JPG)
+![NO.22.150-DSCF4882.JPG](https://zooatmospheregroup.github.io/MEDIA-2022/mix/20220626ZouBinbin/NO.22.150-DSCF4882.JPG)
 
 ##### NO.22.151-DSCF4887.JPG X-T30 TAMRON SP 70-200mm F/2.8 Di VC USD G2 1/320 14/5 320 
-![NO.22.151-DSCF4887.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//mix/20220626ZouBinbin/NO.22.151-DSCF4887.JPG)
+![NO.22.151-DSCF4887.JPG](https://zooatmospheregroup.github.io/MEDIA-2022/mix/20220626ZouBinbin/NO.22.151-DSCF4887.JPG)
 
 ##### NO.22.152-DSCF4915.JPG X-T30 TAMRON SP 70-200mm F/2.8 Di VC USD G2 1/320 14/5 400 
-![NO.22.152-DSCF4915.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//mix/20220626ZouBinbin/NO.22.152-DSCF4915.JPG)
+![NO.22.152-DSCF4915.JPG](https://zooatmospheregroup.github.io/MEDIA-2022/mix/20220626ZouBinbin/NO.22.152-DSCF4915.JPG)
 
 ##### NO.22.153-DSCF4920.JPG X-T30 TAMRON SP 70-200mm F/2.8 Di VC USD G2 1/320 14/5 320 
-![NO.22.153-DSCF4920.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//mix/20220626ZouBinbin/NO.22.153-DSCF4920.JPG)
+![NO.22.153-DSCF4920.JPG](https://zooatmospheregroup.github.io/MEDIA-2022/mix/20220626ZouBinbin/NO.22.153-DSCF4920.JPG)
 
 ##### NO.22.154-DSCF4924.JPG X-T30 TAMRON SP 70-200mm F/2.8 Di VC USD G2 1/320 14/5 320 
-![NO.22.154-DSCF4924.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//mix/20220626ZouBinbin/NO.22.154-DSCF4924.JPG)
+![NO.22.154-DSCF4924.JPG](https://zooatmospheregroup.github.io/MEDIA-2022/mix/20220626ZouBinbin/NO.22.154-DSCF4924.JPG)
 
 ##### NO.22.155-DSCF4954.JPG X-T30 TAMRON SP 70-200mm F/2.8 Di VC USD G2 1/320 14/5 2000 
-![NO.22.155-DSCF4954.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//mix/20220626ZouBinbin/NO.22.155-DSCF4954.JPG)
+![NO.22.155-DSCF4954.JPG](https://zooatmospheregroup.github.io/MEDIA-2022/mix/20220626ZouBinbin/NO.22.155-DSCF4954.JPG)
 
 ##### NO.22.156-DSCF4978.JPG X-T30 TAMRON SP 70-200mm F/2.8 Di VC USD G2 1/320 14/5 2000 
-![NO.22.156-DSCF4978.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//mix/20220626ZouBinbin/NO.22.156-DSCF4978.JPG)
+![NO.22.156-DSCF4978.JPG](https://zooatmospheregroup.github.io/MEDIA-2022/mix/20220626ZouBinbin/NO.22.156-DSCF4978.JPG)
 
 ##### NO.22.157-DSCF5008.JPG X-T30 TAMRON SP 70-200mm F/2.8 Di VC USD G2 1/320 14/5 1000 
-![NO.22.157-DSCF5008.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//mix/20220626ZouBinbin/NO.22.157-DSCF5008.JPG)
+![NO.22.157-DSCF5008.JPG](https://zooatmospheregroup.github.io/MEDIA-2022/mix/20220626ZouBinbin/NO.22.157-DSCF5008.JPG)
 
 ##### NO.22.158-DSCF5068.JPG X-T30 TAMRON SP 70-200mm F/2.8 Di VC USD G2 1/320 14/5 1000 
-![NO.22.158-DSCF5068.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//mix/20220626ZouBinbin/NO.22.158-DSCF5068.JPG)
+![NO.22.158-DSCF5068.JPG](https://zooatmospheregroup.github.io/MEDIA-2022/mix/20220626ZouBinbin/NO.22.158-DSCF5068.JPG)
 
 ##### NO.22.159-DSCF5072.JPG X-T30 TAMRON SP 24-70mm F/2.8 Di VC USD G2 1/320 14/5 400 
-![NO.22.159-DSCF5072.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//mix/20220626ZouBinbin/NO.22.159-DSCF5072.JPG)
+![NO.22.159-DSCF5072.JPG](https://zooatmospheregroup.github.io/MEDIA-2022/mix/20220626ZouBinbin/NO.22.159-DSCF5072.JPG)
 
 ##### NO.22.15A-DSCF5073.JPG X-T30 TAMRON SP 24-70mm F/2.8 Di VC USD G2 1/320 14/5 400 
-![NO.22.15A-DSCF5073.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//mix/20220626ZouBinbin/NO.22.15A-DSCF5073.JPG)
+![NO.22.15A-DSCF5073.JPG](https://zooatmospheregroup.github.io/MEDIA-2022/mix/20220626ZouBinbin/NO.22.15A-DSCF5073.JPG)
 
 ##### NO.22.15B-DSCF5084.JPG X-T30 TAMRON SP 24-70mm F/2.8 Di VC USD G2 1/320 14/5 500 
-![NO.22.15B-DSCF5084.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//mix/20220626ZouBinbin/NO.22.15B-DSCF5084.JPG)
+![NO.22.15B-DSCF5084.JPG](https://zooatmospheregroup.github.io/MEDIA-2022/mix/20220626ZouBinbin/NO.22.15B-DSCF5084.JPG)
 
 ##### NO.22.15C-DSCF5102.JPG X-T30 TAMRON SP 24-70mm F/2.8 Di VC USD G2 1/320 14/5 400 
-![NO.22.15C-DSCF5102.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//mix/20220626ZouBinbin/NO.22.15C-DSCF5102.JPG)
+![NO.22.15C-DSCF5102.JPG](https://zooatmospheregroup.github.io/MEDIA-2022/mix/20220626ZouBinbin/NO.22.15C-DSCF5102.JPG)
 
 ##### NO.22.15D-DSCF5110.JPG X-T30 TAMRON SP 24-70mm F/2.8 Di VC USD G2 1/320 14/5 640 
-![NO.22.15D-DSCF5110.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//mix/20220626ZouBinbin/NO.22.15D-DSCF5110.JPG)
+![NO.22.15D-DSCF5110.JPG](https://zooatmospheregroup.github.io/MEDIA-2022/mix/20220626ZouBinbin/NO.22.15D-DSCF5110.JPG)
 
 ##### NO.22.15E-DSCF5122.jpg X-T30 TAMRON SP 24-70mm F/2.8 Di VC USD G2 1/320 14/5 640 
-![NO.22.15E-DSCF5122.jpg](https://zooatmospheregroup.github.io/MEDIA-2022//mix/20220626ZouBinbin/NO.22.15E-DSCF5122.jpg)
+![NO.22.15E-DSCF5122.jpg](https://zooatmospheregroup.github.io/MEDIA-2022/mix/20220626ZouBinbin/NO.22.15E-DSCF5122.jpg)
 
 ##### NO.22.15F-DSCF5136.JPG X-T30 TAMRON SP 24-70mm F/2.8 Di VC USD G2 1/320 14/5 1000 
-![NO.22.15F-DSCF5136.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//mix/20220626ZouBinbin/NO.22.15F-DSCF5136.JPG)
+![NO.22.15F-DSCF5136.JPG](https://zooatmospheregroup.github.io/MEDIA-2022/mix/20220626ZouBinbin/NO.22.15F-DSCF5136.JPG)
 
 ##### NO.22.160-DSCF5155.JPG X-T30 TAMRON SP 24-70mm F/2.8 Di VC USD G2 1/320 14/5 800 
-![NO.22.160-DSCF5155.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//mix/20220626ZouBinbin/NO.22.160-DSCF5155.JPG)
+![NO.22.160-DSCF5155.JPG](https://zooatmospheregroup.github.io/MEDIA-2022/mix/20220626ZouBinbin/NO.22.160-DSCF5155.JPG)
 
 ##### NO.22.161-DSCF5159.JPG X-T30 TAMRON SP 24-70mm F/2.8 Di VC USD G2 1/320 14/5 800 
-![NO.22.161-DSCF5159.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//mix/20220626ZouBinbin/NO.22.161-DSCF5159.JPG)
+![NO.22.161-DSCF5159.JPG](https://zooatmospheregroup.github.io/MEDIA-2022/mix/20220626ZouBinbin/NO.22.161-DSCF5159.JPG)
 
 ##### NO.22.162-DSCF5162.JPG X-T30 TAMRON SP 24-70mm F/2.8 Di VC USD G2 1/320 14/5 800 
-![NO.22.162-DSCF5162.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//mix/20220626ZouBinbin/NO.22.162-DSCF5162.JPG)
+![NO.22.162-DSCF5162.JPG](https://zooatmospheregroup.github.io/MEDIA-2022/mix/20220626ZouBinbin/NO.22.162-DSCF5162.JPG)
 
 ##### NO.22.163-DSCF5184.JPG X-T30 TAMRON SP 24-70mm F/2.8 Di VC USD G2 1/125 14/5 2000 
-![NO.22.163-DSCF5184.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//mix/20220626ZouBinbin/NO.22.163-DSCF5184.JPG)
+![NO.22.163-DSCF5184.JPG](https://zooatmospheregroup.github.io/MEDIA-2022/mix/20220626ZouBinbin/NO.22.163-DSCF5184.JPG)
 
 ##### NO.22.164-DSCF5188.JPG X-T30 TAMRON SP 24-70mm F/2.8 Di VC USD G2 1/125 14/5 3200 
-![NO.22.164-DSCF5188.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//mix/20220626ZouBinbin/NO.22.164-DSCF5188.JPG)
+![NO.22.164-DSCF5188.JPG](https://zooatmospheregroup.github.io/MEDIA-2022/mix/20220626ZouBinbin/NO.22.164-DSCF5188.JPG)
 
 ##### NO.22.165-DSCF5215.JPG X-T30 TAMRON SP 24-70mm F/2.8 Di VC USD G2 1/125 14/5 5000 
-![NO.22.165-DSCF5215.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//mix/20220626ZouBinbin/NO.22.165-DSCF5215.JPG)
+![NO.22.165-DSCF5215.JPG](https://zooatmospheregroup.github.io/MEDIA-2022/mix/20220626ZouBinbin/NO.22.165-DSCF5215.JPG)
 
 ##### NO.22.166-DSCF5217.JPG X-T30 TAMRON SP 24-70mm F/2.8 Di VC USD G2 1/125 14/5 5000 
-![NO.22.166-DSCF5217.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//mix/20220626ZouBinbin/NO.22.166-DSCF5217.JPG)
+![NO.22.166-DSCF5217.JPG](https://zooatmospheregroup.github.io/MEDIA-2022/mix/20220626ZouBinbin/NO.22.166-DSCF5217.JPG)
 
 ##### NO.22.167-DSCF5237.JPG X-T30 TAMRON SP 24-70mm F/2.8 Di VC USD G2 1/250 14/5 320 
-![NO.22.167-DSCF5237.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//mix/20220626ZouBinbin/NO.22.167-DSCF5237.JPG)
+![NO.22.167-DSCF5237.JPG](https://zooatmospheregroup.github.io/MEDIA-2022/mix/20220626ZouBinbin/NO.22.167-DSCF5237.JPG)
 
 ##### NO.22.168-DSCF5245.jpg X-T30 TAMRON SP 24-70mm F/2.8 Di VC USD G2 1/250 14/5 320 
-![NO.22.168-DSCF5245.jpg](https://zooatmospheregroup.github.io/MEDIA-2022//mix/20220626ZouBinbin/NO.22.168-DSCF5245.jpg)
+![NO.22.168-DSCF5245.jpg](https://zooatmospheregroup.github.io/MEDIA-2022/mix/20220626ZouBinbin/NO.22.168-DSCF5245.jpg)
 
 ##### NO.22.169-DSCF5248.jpg X-T30 TAMRON SP 24-70mm F/2.8 Di VC USD G2 1/250 14/5 320 
-![NO.22.169-DSCF5248.jpg](https://zooatmospheregroup.github.io/MEDIA-2022//mix/20220626ZouBinbin/NO.22.169-DSCF5248.jpg)
+![NO.22.169-DSCF5248.jpg](https://zooatmospheregroup.github.io/MEDIA-2022/mix/20220626ZouBinbin/NO.22.169-DSCF5248.jpg)
 
 ##### NO.22.16A-DSCF5269.jpg X-T30 TAMRON SP 24-70mm F/2.8 Di VC USD G2 1/250 14/5 320 
-![NO.22.16A-DSCF5269.jpg](https://zooatmospheregroup.github.io/MEDIA-2022//mix/20220626ZouBinbin/NO.22.16A-DSCF5269.jpg)
+![NO.22.16A-DSCF5269.jpg](https://zooatmospheregroup.github.io/MEDIA-2022/mix/20220626ZouBinbin/NO.22.16A-DSCF5269.jpg)
 
 ##### NO.22.16B-DSCF5282.jpg X-T30 TAMRON SP 24-70mm F/2.8 Di VC USD G2 1/250 14/5 320 
-![NO.22.16B-DSCF5282.jpg](https://zooatmospheregroup.github.io/MEDIA-2022//mix/20220626ZouBinbin/NO.22.16B-DSCF5282.jpg)
+![NO.22.16B-DSCF5282.jpg](https://zooatmospheregroup.github.io/MEDIA-2022/mix/20220626ZouBinbin/NO.22.16B-DSCF5282.jpg)
 
 ##### NO.22.16C-DSCF5288.jpg X-T30 TAMRON SP 70-200mm F/2.8 Di VC USD G2 1/320 14/5 200 
-![NO.22.16C-DSCF5288.jpg](https://zooatmospheregroup.github.io/MEDIA-2022//mix/20220626ZouBinbin/NO.22.16C-DSCF5288.jpg)
+![NO.22.16C-DSCF5288.jpg](https://zooatmospheregroup.github.io/MEDIA-2022/mix/20220626ZouBinbin/NO.22.16C-DSCF5288.jpg)
 
 ##### NO.22.16D-DSCF5295.jpg X-T30 TAMRON SP 70-200mm F/2.8 Di VC USD G2 1/320 14/5 400 
-![NO.22.16D-DSCF5295.jpg](https://zooatmospheregroup.github.io/MEDIA-2022//mix/20220626ZouBinbin/NO.22.16D-DSCF5295.jpg)
+![NO.22.16D-DSCF5295.jpg](https://zooatmospheregroup.github.io/MEDIA-2022/mix/20220626ZouBinbin/NO.22.16D-DSCF5295.jpg)
 
 ##### NO.22.16E-DSCF5335.JPG X-T30 TAMRON SP 24-70mm F/2.8 Di VC USD G2 1/125 14/5 800 
-![NO.22.16E-DSCF5335.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//mix/20220626ZouBinbin/NO.22.16E-DSCF5335.JPG)
+![NO.22.16E-DSCF5335.JPG](https://zooatmospheregroup.github.io/MEDIA-2022/mix/20220626ZouBinbin/NO.22.16E-DSCF5335.JPG)
 
 ##### NO.22.16F-DSCF5349.JPG X-T30 TAMRON SP 24-70mm F/2.8 Di VC USD G2 1/125 14/5 800 
-![NO.22.16F-DSCF5349.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//mix/20220626ZouBinbin/NO.22.16F-DSCF5349.JPG)
+![NO.22.16F-DSCF5349.JPG](https://zooatmospheregroup.github.io/MEDIA-2022/mix/20220626ZouBinbin/NO.22.16F-DSCF5349.JPG)
 
 ##### NO.22.170-DSCF5358.JPG X-T30 TAMRON SP 24-70mm F/2.8 Di VC USD G2 1/125 14/5 800 
-![NO.22.170-DSCF5358.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//mix/20220626ZouBinbin/NO.22.170-DSCF5358.JPG)
+![NO.22.170-DSCF5358.JPG](https://zooatmospheregroup.github.io/MEDIA-2022/mix/20220626ZouBinbin/NO.22.170-DSCF5358.JPG)
 
 ##### NO.22.171-DSCF5364.jpg X-T30 TAMRON SP 24-70mm F/2.8 Di VC USD G2 1/125 14/5 800 
-![NO.22.171-DSCF5364.jpg](https://zooatmospheregroup.github.io/MEDIA-2022//mix/20220626ZouBinbin/NO.22.171-DSCF5364.jpg)
+![NO.22.171-DSCF5364.jpg](https://zooatmospheregroup.github.io/MEDIA-2022/mix/20220626ZouBinbin/NO.22.171-DSCF5364.jpg)
 
 
 [返回](/Zoo-HZ-Media-Volunteers)
